@@ -1,4 +1,4 @@
-# 24 Hours Game Creation
+# 48 Hours Game Creation
 The Game Name: Sausage and his friends
 Programing: Huawei Wang
 Art:Haoyu Zhang
